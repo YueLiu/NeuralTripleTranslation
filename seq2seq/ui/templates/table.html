@@ -1,0 +1,26 @@
+<link href='/src/jquery.bootgrid.css' rel='stylesheet'>
+<script src="/src/jquery-ui.js"></script>
+<script src="/src/jquery.bootgrid.js"></script>
+<script src="/src/jquery.bootgrid.fa.js"></script>
+<script>
+    $("#grid-basic").bootgrid();
+
+</script>
+
+
+<table id="grid-basic" class="table table-condensed table-hover table-striped">
+        <thead>
+        <tr>
+            <th data-column-id="Tag">TAG</th>
+            <th data-column-id="Value">URI</th>
+        </tr>
+    </thead>
+    <tbody>
+{% for key, value in response.items() %}
+   <tr>
+        <td> {{ key }} </td>
+        <td> {{ value }} </td>
+   </tr>
+{% endfor %}
+    </tbody>
+</table>

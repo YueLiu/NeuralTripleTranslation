@@ -1,0 +1,96 @@
+<!-- include ajax -->
+<head>
+    <meta charset="utf-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="/src/jquery-ui.js"></script>
+    <script src="/src/jquery.bootgrid.js"></script>
+    <script src="/src/jquery.bootgrid.fa.js"></script>
+
+    <style>
+
+        .hidden{display:none;}
+
+    input[type=text], select {
+        width: 50%;
+        padding: 32px 30px;
+        margin: 30px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        font-size: 17px;
+    }
+
+    #btn {
+        width: 15%;
+        background-color: lightskyblue;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    #btn:hover {
+        background-color: cornflowerblue;
+    }
+
+    </style>
+    <link href='/src/jquery.bootgrid.css' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Tajawal' rel='stylesheet'>
+    <style>
+    body {
+        font-family: 'Tajawal';font-size: 22px;
+        background: floralwhite; /* fallback for old browsers */
+    }
+    h1 {  margin-top: 70px; color: black;  }
+    h3 {  margin-top: 10px; color: grey;   }
+    </style>
+
+    <script>
+      $( function() {
+        $( "#input" ).resizable();
+      } );
+    </script>
+
+</head>
+
+<h1 align="center">Neural Triple Translation</h1>
+<h3 align="center">Currently loaded embeddings: PubMed-and-PMC</h3>
+<div align="center"><input type="text" name="name" id="input" value="Lake Geroge is lake"></div>
+<div align="center"><button id="btn">Annotate</button></div>
+<div id="api_output" align="center">
+</div>
+
+<script>
+function api_call(input) {
+    $.ajax({
+        url: "http://0.0.0.0:5000/api",
+        method: 'POST',
+        dataType : "html",
+        contentType: "application/json",
+        data: JSON.stringify(input),
+        success: function(result) {
+            console.log(result);
+            $('#api_output').html(result);
+            $("#input").val("");
+        }
+        ,
+        error: function(errorThrown){
+            $('#api_output').html( "There was an error" );
+            console.log( errorThrown );
+        },
+//        timeout: 3000
+    });
+}
+$( document ).ready(function() {
+    // request when clicking on the button
+    $('#btn').click(function() {
+        var input = $("#input").val();
+        api_call(input);
+        input = "";
+    });
+});
+</script>
