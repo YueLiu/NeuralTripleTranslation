@@ -381,7 +381,7 @@ th, td {
 
 /*==================================================================
 [ Ver4 ]*/
-.table100.ver4 {
+.table100.ver4 table{
   width: 50%;
   margin-right: 30px;
 }
@@ -431,21 +431,6 @@ th, td {
 .table100.ver4 .table100-body{
   width: 50%;
   padding-right: 20px;
-}
-
-.table100.ver4 .ps__rail-y {
-  width: 50%;
-  right: 0px;
-}
-
-.table100.ver4 .ps__rail-y::before {
-  width: 50%;
-  background-color: #ebebeb;
-}
-
-.table100.ver4 .ps__rail-y .ps__thumb-y::before {
-  width: 50%;
-  background-color: #cccccc;
 }
 
 
