@@ -1,27 +1,51 @@
-<link href='https://rawgit.com/YueLiu/NeuralTripleTranslation/master/seq2seq/ui/templates/src/jquery.bootgrid.css' rel='stylesheet'>
-<link href='https://rawgit.com/YueLiu/NeuralTripleTranslation/master/seq2seq/ui/templates/src/jquery-ui.css' rel='stylesheet'>
-<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/seq2seq/ui/templates/src/jquery-ui.js"></script>
-<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/seq2seq/ui/templates/src/jquery.bootgrid.js"></script>
-<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/seq2seq/ui/templates/src/jquery.bootgrid.fa.js"></script>
-<script>
-    $("#grid-basic").bootgrid();
-
-</script>
 
 
-<table id="grid-basic" class="table table-condensed table-hover table-striped">
-        <thead>
-        <tr>
-            <th data-column-id="Tag">TAG</th>
-            <th data-column-id="Value">URI</th>
-        </tr>
-    </thead>
-    <tbody>
-{% for key, value in response.items() %}
-   <tr>
-        <td> {{ key }} </td>
-        <td> {{ value }} </td>
-   </tr>
-{% endfor %}
-    </tbody>
-</table>
+
+				<div class="table100 ver4 m-b-110">
+					<div class="table100-head">
+						<table>
+							<thead>
+								<tr class="row100 head">
+                                    <th data-column-id="Tag">TAG</th>
+                                    <th data-column-id="Value">URI</th>
+								</tr>
+							</thead>
+						</table>
+					</div>
+
+    <div class="table100-body js-pscroll">
+						<table>
+							<tbody>
+                                {% for key, value in response.items() %}
+                                   <tr>
+                                        <td> {{ key }} </td>
+                                        <td> {{ value }} </td>
+                                   </tr>
+                                {% endfor %}
+							</tbody>
+						</table>
+					</div>
+                </div>
+
+<!--===============================================================================================-->
+	<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/ui/vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/ui/vendor/bootstrap/js/popper.js"></script>
+	<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/ui/vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/ui/vendor/select2/select2.js"></script>
+<!--===============================================================================================-->
+	<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/ui/vendor/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+	<script>
+		$('.js-pscroll').each(function(){
+			var ps = new PerfectScrollbar(this);
+
+			$(window).on('resize', function(){
+				ps.update();
+			})
+		});
+
+
+	</script>
+<!--===============================================================================================-->
+	<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/ui/js/main.js"></script>

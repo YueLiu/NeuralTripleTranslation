@@ -382,10 +382,12 @@ th, td {
 /*==================================================================
 [ Ver4 ]*/
 .table100.ver4 {
+  width: 50%;
   margin-right: -20px;
 }
 
 .table100.ver4 .table100-head {
+  width: 50%;
   padding-right: 20px;
 }
 
