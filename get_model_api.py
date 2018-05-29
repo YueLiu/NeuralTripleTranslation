@@ -1,15 +1,10 @@
-import urllib
-from urllib.request import urlopen
-import json
-import re
-import sys
 import pickle
 import numpy as np
 from nltk.tokenize import word_tokenize
 
 from model.learning_core import Seq2seqCore
 from model.tools import data_indexer
-
+import data
 
 def feeder_generator(raw_inputs, token_idx_dict, pretrained_dict):
     result_dict = dict()
@@ -79,3 +74,5 @@ def s2s_end2end(sentence):
     # json_data = json.dumps(answer)
 
     return answer
+
+# print(s2s_end2end('i am a student'))

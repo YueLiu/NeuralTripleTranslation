@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-import get_model_api  # see part 1.
+import get_model_api
 from flask import render_template
 import json
 app = Flask(__name__)
@@ -10,7 +10,7 @@ CORS(app) # needed for cross-domain requests, allow everything by default
 # default route
 @app.route('/')
 def index():
-    return ""
+    return render_template('client.html')
 
 # HTTP Errors handlers
 @app.errorhandler(404)
