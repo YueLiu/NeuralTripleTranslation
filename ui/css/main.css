@@ -383,12 +383,12 @@ th, td {
 [ Ver4 ]*/
 .table100.ver4 {
   width: 50%;
-  margin-right: -20px;
+  margin-right: 30px;
 }
 
 .table100.ver4 .table100-head {
   width: 50%;
-  padding-right: 20px;
+  padding-right: 30px;
 }
 
 .table100.ver4 th {
@@ -419,22 +419,27 @@ th, td {
 /*---------------------------------------------*/
 
 .table100.ver4 {
+  width: 50%;
   overflow: hidden;
 }
 
 .table100.ver4 .table100-body{
+  width: 50%;
   padding-right: 20px;
 }
 
 .table100.ver4 .ps__rail-y {
+  width: 50%;
   right: 0px;
 }
 
 .table100.ver4 .ps__rail-y::before {
+  width: 50%;
   background-color: #ebebeb;
 }
 
 .table100.ver4 .ps__rail-y .ps__thumb-y::before {
+  width: 50%;
   background-color: #cccccc;
 }
 
