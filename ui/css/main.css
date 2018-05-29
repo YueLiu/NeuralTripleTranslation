@@ -392,6 +392,8 @@ th, td {
 }
 
 .table100.ver4 th {
+    width: 50%;
+  text-align: center;
   font-family: Lato-Bold;
   font-size: 18px;
   color: #4272d7;
@@ -406,6 +408,8 @@ th, td {
 }
 
 .table100.ver4 td {
+    width: 50%;
+  text-align: center;
   font-family: Lato-Regular;
   font-size: 15px;
   color: #808080;
@@ -413,6 +417,7 @@ th, td {
 }
 
 .table100.ver4 .table100-body tr {
+    width: 50%;
   border-bottom: 1px solid #f2f2f2;
 }
 
