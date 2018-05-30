@@ -1,8 +1,8 @@
 
 
 
-				<div class="table100 ver4 m-b-110">
-					<div class="table100-head">
+				<div class="pure-table">
+					<div class="pure-table-head">
 						<table>
 							<thead>
 								<tr class="row100 head">
@@ -13,7 +13,7 @@
 						</table>
 					</div>
 
-    <div class="table100-body js-pscroll">
+    <div class="pure-table-body">
 						<table>
 							<tbody>
                                 {% for key, value in response.items() %}
@@ -26,26 +26,3 @@
 						</table>
 					</div>
                 </div>
-
-<!--===============================================================================================-->
-	<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/ui/vendor/jquery/jquery-3.2.1.min.js"></script>
-<!--===============================================================================================-->
-	<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/ui/vendor/bootstrap/js/popper.js"></script>
-	<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/ui/vendor/bootstrap/js/bootstrap.min.js"></script>
-<!--===============================================================================================-->
-	<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/ui/vendor/select2/select2.js"></script>
-<!--===============================================================================================-->
-	<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/ui/vendor/perfect-scrollbar/perfect-scrollbar.min.js"></script>
-	<script>
-		$('.js-pscroll').each(function(){
-			var ps = new PerfectScrollbar(this);
-
-			$(window).on('resize', function(){
-				ps.update();
-			})
-		});
-
-
-	</script>
-<!--===============================================================================================-->
-	<script src="https://rawgit.com/YueLiu/NeuralTripleTranslation/master/ui/js/main.js"></script>
