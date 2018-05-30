@@ -1,28 +1,19 @@
 
-
-
-				<div class="pure-table">
-					<div class="pure-table-head">
+    <div class="pure-table">
 						<table>
-							<thead>
+                            <thead>
 								<tr class="row100 head">
                                     <th data-column-id="Tag">TAG</th>
                                     <th data-column-id="Value">URI</th>
 								</tr>
 							</thead>
-						</table>
-					</div>
-
-    <div class="pure-table-body">
-						<table>
 							<tbody>
                                 {% for key, value in response.items() %}
                                    <tr>
                                         <td> {{ key }} </td>
-                                        <td> {{ value }} </td>
+                                       <td onClick="document.location.href='{{ value }}'"> {{ value }} </td>
                                    </tr>
                                 {% endfor %}
 							</tbody>
 						</table>
-					</div>
-                </div>
+                    </div>

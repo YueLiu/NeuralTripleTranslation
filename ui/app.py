@@ -1,8 +1,8 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request
+from flask import render_template
 from flask_cors import CORS
 import get_model_api
-from flask import render_template
-import json
+
 app = Flask(__name__)
 CORS(app) # needed for cross-domain requests, allow everything by default
 

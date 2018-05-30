@@ -4,7 +4,6 @@ from nltk.tokenize import word_tokenize
 
 from model.learning_core import Seq2seqCore
 from model.tools import data_indexer
-import data
 
 def feeder_generator(raw_inputs, token_idx_dict, pretrained_dict):
     result_dict = dict()
@@ -67,9 +66,9 @@ def s2s_end2end(sentence):
     answer_list = data_indexer(predict_list[0], idx_ontology_dict)
 
     answer = {}
-    answer['subject'] = answer_list[1]
-    answer['predicate'] = answer_list[0]
-    answer['object'] = answer_list[2]
+    answer['Subject'] = answer_list[1]
+    answer['Predicate'] = answer_list[0]
+    answer['Object'] = answer_list[2]
 
     # json_data = json.dumps(answer)
 
