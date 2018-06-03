@@ -4,6 +4,8 @@ An end-to-end tool for generating triples from natural language sentences. Given
 
 ### Preprocess
 
+*.tfmodel.data-* and the *.pkl* file
+
 ### Data
 
 We [process](https://github.com/shanzhenren/StructMineDataPipeline) (using our [data pipeline](https://github.com/shanzhenren/StructMineDataPipeline)) three public datasets to our JSON format. We ran [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml) on training set to detect entity mentions, and performed distant supervision using [DBpediaSpotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight) to assign type labels:
