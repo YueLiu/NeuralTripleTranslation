@@ -1,0 +1,452 @@
+yiddish is used in a number of haredi jewish communities worldwide, and is the first language	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Yiddish http://dbpedia.org/resource/Language
+afrikaans is a west germanic language	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Afrikaans http://dbpedia.org/resource/Language
+arabic al-ʻarabiyyah [ʔalʕaraˈbijːah] or ʻarabī [ˈʕarabiː] or [ʕaraˈbij]) is a central semitic language	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Arabic http://dbpedia.org/resource/Language
+esperanto is a constructed international auxiliary language	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Esperanto http://dbpedia.org/resource/Language
+programming language is a formal language	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Programming_language http://dbpedia.org/resource/Language
+sign language s (also known as signed language	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Sign_language http://dbpedia.org/resource/Language
+perl is a family of high-level, general-purpose, interpreted, dynamic programming language	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/PL/Perl http://dbpedia.org/resource/Language
+megalodon , meaning "big tooth," is an extinct species of shark	http://dbpedia.org/ontology/order http://dbpedia.org/resource/Megalodon http://dbpedia.org/resource/Shark
+james ussher , d.d., i, dublin	http://dbpedia.org/ontology/birthPlace http://dbpedia.org/resource/James_Ussher http://dbpedia.org/resource/Dublin
+james ussher , d.d., i, dublin	http://dbpedia.org/property/birthPlace http://dbpedia.org/resource/James_Ussher http://dbpedia.org/resource/Dublin
+zürich or zurich is the largest city in switzerland	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Zürich http://dbpedia.org/resource/Switzerland
+zürich or zurich is the largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Zürich http://dbpedia.org/resource/City
+damascus (; arabic: دمشق‎ dimashq [diˈmaʃq], syria	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Damascus http://dbpedia.org/resource/Syria
+damascus ʔ]) is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Damascus http://dbpedia.org/resource/Capital
+zadar was a center of the croatia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Zadar http://dbpedia.org/resource/Croatia
+zadar ; see other names) is the oldest continuously inhabited croatian city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Zadar http://dbpedia.org/resource/City
+sialkot is a city in punjab, pakistan	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Sialkot http://dbpedia.org/resource/Pakistan
+sialkot is a city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Sialkot http://dbpedia.org/resource/City
+sialkot is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Sialkot http://dbpedia.org/resource/City
+israel , officially the state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Israel http://dbpedia.org/resource/State
+tijuana is the 45th largest city in the americas and is the westernmost city in mexico	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Tijuana http://dbpedia.org/resource/Mexico
+tijuana is the largest city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Tijuana http://dbpedia.org/resource/City
+tijuana is the largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Tijuana http://dbpedia.org/resource/City
+colorado ) is a state of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Colorado http://dbpedia.org/resource/United_States
+colorado ) is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Colorado http://dbpedia.org/resource/State
+norwich ) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Norwich http://dbpedia.org/resource/City
+birmingham is greater than in any other major english city, and is exceeded only by glasgow in the united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Birmingham http://dbpedia.org/resource/United_Kingdom
+birmingham , locally /ˈbɜːmɪŋəm/ or /ˈbɜːmɪnəm/) is a city and metropolitan borough in the west midlands of england	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Birmingham http://dbpedia.org/resource/England
+birmingham , locally /ˈbɜːmɪŋəm/ or /ˈbɜːmɪnəm/) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Birmingham http://dbpedia.org/resource/City
+kansas is a u.s. state in the midwestern united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Kansas http://dbpedia.org/resource/United_States
+kansas is a u.s. state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Kansas http://dbpedia.org/resource/State
+pune is the second largest city in the india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Pune http://dbpedia.org/resource/India
+pune station, and swargate to all major cities and towns in maharashtra	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Pune http://dbpedia.org/resource/Maharashtra
+pune is the second largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Pune http://dbpedia.org/resource/City
+johannesburg is the largest city in south africa	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Johannesburg http://dbpedia.org/resource/South_Africa
+johannesburg is the largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Johannesburg http://dbpedia.org/resource/City
+alexandria is the second-largest city in egypt	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Alexandria http://dbpedia.org/resource/Egypt
+alexandria is the second-largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Alexandria http://dbpedia.org/resource/City
+edinburgh is scotland's second most populous city and the seventh most populous in the united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Edinburgh http://dbpedia.org/resource/United_Kingdom
+edinburgh ; scottish gaelic: dùn èideann [ˈt̪uːn ˈeːtʲən̪ˠ]; scots: edinburgh) is the capital city of scotland	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Edinburgh http://dbpedia.org/resource/Scotland
+edinburgh ; scottish gaelic: dùn èideann [ˈt̪uːn ˈeːtʲən̪ˠ]; scots: edinburgh) is the capital city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Edinburgh http://dbpedia.org/resource/City
+minsk has a special administrative status in belarus	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Minsk http://dbpedia.org/resource/Belarus
+minsk is the capital and largest city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Minsk http://dbpedia.org/resource/City
+minsk is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Minsk http://dbpedia.org/resource/Capital
+rome is the capital of italy	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Rome http://dbpedia.org/resource/Italy
+rome , the only existing example of a country within a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Rome http://dbpedia.org/resource/City
+las vegas , officially the and often known simply as vegas, is the 28th-most populated city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Las_Vegas http://dbpedia.org/resource/City
+las vegas , officially the and often known simply as vegas, is the 28th-most populated city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Las_Vegas http://dbpedia.org/resource/City
+amiens is a city and commune in northern france	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Amiens http://dbpedia.org/resource/France
+amiens is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Amiens http://dbpedia.org/resource/City
+minnesota ) is a state in the great lakes and northern regions of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Minnesota http://dbpedia.org/resource/United_States
+minnesota ) is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Minnesota http://dbpedia.org/resource/State
+vancouver , locally usually [væŋ-]) is a coastal seaport city in canada	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Vancouver http://dbpedia.org/resource/Canada
+vancouver , locally usually [væŋ-]) is a coastal seaport city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Vancouver http://dbpedia.org/resource/City
+enugu ay-noo-goo; igbo: énugwú) is the capital of enugu state in nigeria	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Enugu http://dbpedia.org/resource/Nigeria
+enugu ay-noo-goo; igbo: énugwú) is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Enugu http://dbpedia.org/resource/Capital
+maryland ) is a state in the mid-atlantic region of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Maryland http://dbpedia.org/resource/United_States
+maryland ) is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Maryland http://dbpedia.org/resource/State
+virginia ; officially the commonwealth of virginia) is a state in the southeastern and mid-atlantic regions of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Virginia http://dbpedia.org/resource/United_States
+virginia ; officially the commonwealth of virginia) is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Virginia http://dbpedia.org/resource/State
+bergen , historically bjørgvin, is a city and municipality in hordaland on the west coast of norway	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Bergen http://dbpedia.org/resource/Norway
+bergen , historically bjørgvin, is a city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Bergen http://dbpedia.org/resource/City
+bergen , historically bjørgvin, is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Bergen http://dbpedia.org/resource/City
+cologne is located on both sides of the rhine, near germany	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Cologne http://dbpedia.org/resource/Germany
+cologne , ripuarian: kölle [ˈkœɫə] ) is the largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Cologne http://dbpedia.org/resource/City
+texas is the second largest state in the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Texas http://dbpedia.org/resource/United_States
+texas is the second largest state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Texas http://dbpedia.org/resource/State
+uttar pradesh , is a state in northern india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Uttar_Pradesh http://dbpedia.org/resource/India
+uttar pradesh , is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Uttar_Pradesh http://dbpedia.org/resource/State
+plovdiv and eastern rumelia joined bulgaria	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Plovdiv http://dbpedia.org/resource/Bulgaria
+plovdiv is the second-largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Plovdiv http://dbpedia.org/resource/City
+karnataka is a state in the south western region of india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Karnataka http://dbpedia.org/resource/India
+karnataka is the eighth largest state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Karnataka http://dbpedia.org/resource/State
+karnataka is bordered by the arabian sea to the west, goa to the northwest, maharashtra	http://dbpedia.org/property/north http://dbpedia.org/resource/Karnataka http://dbpedia.org/resource/Maharashtra
+lagos is a city in the nigeria	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Lagos http://dbpedia.org/resource/Nigeria
+lagos is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Lagos http://dbpedia.org/resource/City
+wyoming is a state in the mountain region of the western united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Wyoming http://dbpedia.org/resource/United_States
+wyoming is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Wyoming http://dbpedia.org/resource/State
+mississippi ) is a state in the southern united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Mississippi http://dbpedia.org/resource/United_States
+mississippi ) is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Mississippi http://dbpedia.org/resource/State
+adelaide ad-ə-layd) is the capital city of the state of south australia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Adelaide http://dbpedia.org/resource/Australia
+adelaide ad-ə-layd) is the capital city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Adelaide http://dbpedia.org/resource/City
+mansfield is a market town in nottinghamshire, england	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Mansfield http://dbpedia.org/resource/England
+mansfield was originally the home of mansfield brewery, once the largest independent brewer in the united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Mansfield http://dbpedia.org/resource/United_Kingdom
+mansfield is a market town	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Mansfield http://dbpedia.org/resource/Town
+egypt is a mediterranean country	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Egypt http://dbpedia.org/resource/Country
+kolkata , formerly calcutta until 2001, is the capital of the india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Kolkata http://dbpedia.org/resource/India
+kolkata , formerly calcutta until 2001, is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Kolkata http://dbpedia.org/resource/Capital
+kolkata has rail and road connectivity with dhaka, the capital of bangladesh	http://dbpedia.org/property/east http://dbpedia.org/resource/Kolkata http://dbpedia.org/resource/Bangladesh
+dundee has both low proportions of people born outside the united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Dundee http://dbpedia.org/resource/United_Kingdom
+dundee ; scottish gaelic: dùn dè [ˈt̪uːn tʲeː]), is scotland	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Dundee http://dbpedia.org/resource/Scotland
+dundee ; scottish gaelic: dùn dè [ˈt̪uːn tʲeː]), is scotland	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Dundee http://dbpedia.org/resource/Scotland
+estonia ns – the largest ethnic group in country	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Estonia http://dbpedia.org/resource/Country
+estonia was conquered by the russia	http://dbpedia.org/property/east http://dbpedia.org/resource/Estonia http://dbpedia.org/resource/Russia
+estonia n army in cooperation with white russian forces advanced into russia and latvia	http://dbpedia.org/property/south http://dbpedia.org/resource/Estonia http://dbpedia.org/resource/Latvia
+turin (an administrative division of italy	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Turin http://dbpedia.org/resource/Italy
+turin ; piemontese: turin [tyˈɾiŋ]) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Turin http://dbpedia.org/resource/City
+kaunas was the biggest city and the centre of a county in trakai municipality of the grand duchy of lithuania	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Kaunas http://dbpedia.org/resource/Lithuania
+kaunas ; also see other names) is the second-largest city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Kaunas http://dbpedia.org/resource/City
+kaunas ; also see other names) is the second-largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Kaunas http://dbpedia.org/resource/City
+new delhi ) is the capital of india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/New_Delhi http://dbpedia.org/resource/India
+frankfurt rhine-main metropolitan region, which has a population of 5.5 million and is germany	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Frankfurt http://dbpedia.org/resource/Germany
+frankfurt on the main'), is a metropolis and the largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Frankfurt http://dbpedia.org/resource/City
+louisiana , ) is a state in the southeastern region of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Louisiana http://dbpedia.org/resource/United_States
+louisiana , ) is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Louisiana http://dbpedia.org/resource/State
+leicester unitary authority was 329,839, an increase of 11.8% compared to the united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Leicester http://dbpedia.org/resource/United_Kingdom
+leicester les-tər) is a city and unitary authority area in the east midlands of england	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Leicester http://dbpedia.org/resource/England
+leicester les-tər) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Leicester http://dbpedia.org/resource/City
+wisconsin ) is a u.s. state located in the north-central united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Wisconsin http://dbpedia.org/resource/United_States
+wisconsin ) is a u.s. state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Wisconsin http://dbpedia.org/resource/State
+yerevan became the capital of the first republic of armenia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Yerevan http://dbpedia.org/resource/Armenia
+yerevan , sometimes spelled erevan) is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Yerevan http://dbpedia.org/resource/Capital
+zagreb has a special status in the croatia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Zagreb http://dbpedia.org/resource/Croatia
+zagreb ) is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Zagreb http://dbpedia.org/resource/Capital
+meghalaya is a state in northeast india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Meghalaya http://dbpedia.org/resource/India
+meghalaya is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Meghalaya http://dbpedia.org/resource/State
+dortmund ; low german: düörpm: [ˈdyːœɐ̯pm̩]; latin: tremonia) is an independent city in north rhine-westphalia, germany	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Dortmund http://dbpedia.org/resource/Germany
+dortmund ; low german: düörpm: [ˈdyːœɐ̯pm̩]; latin: tremonia) is an independent city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Dortmund http://dbpedia.org/resource/City
+missouri is a state in the midwestern united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Missouri http://dbpedia.org/resource/United_States
+missouri played a central role in the westward expansion of the united state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Missouri http://dbpedia.org/resource/State
+delhi city proper's population was over 11 million, the second-highest in india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Delhi http://dbpedia.org/resource/India
+aleppo is a city in governorate, the most populous syria	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Aleppo http://dbpedia.org/resource/Syria
+aleppo is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Aleppo http://dbpedia.org/resource/City
+bangalore , officially known as bengaluru ), is the capital of the india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Bangalore http://dbpedia.org/resource/India
+bangalore , officially known as bengaluru ), is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Bangalore http://dbpedia.org/resource/Capital
+medellín , officially the municipality of medellín , is the second-largest city in colombia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Medellín http://dbpedia.org/resource/Colombia
+medellín , officially the municipality of medellín , is the second-largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Medellín http://dbpedia.org/resource/City
+haifa is the third-largest city in israel	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Haifa http://dbpedia.org/resource/Israel
+haifa is the third-largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Haifa http://dbpedia.org/resource/City
+cape town is a coastal city in south africa	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Cape_Town http://dbpedia.org/resource/South_Africa
+cape town is a coastal city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Cape_Town http://dbpedia.org/resource/City
+bristol ) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Bristol http://dbpedia.org/resource/City
+chennai ; formerly known as madras or ) is the capital of the india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Chennai http://dbpedia.org/resource/India
+chennai ; formerly known as madras or ) is the capital of the indian state of tamil nadu	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Chennai http://dbpedia.org/resource/Tamil_Nadu
+chennai as the safest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Chennai http://dbpedia.org/resource/City
+pittsburgh is a city in the commonwealth of pennsylvania in the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Pittsburgh http://dbpedia.org/resource/United_States
+pittsburgh is a city in the commonwealth of pennsylvania	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Pittsburgh http://dbpedia.org/resource/Pennsylvania
+pittsburgh is a city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Pittsburgh http://dbpedia.org/resource/City
+pittsburgh is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Pittsburgh http://dbpedia.org/resource/City
+coventry is the 9th largest city in england and the 12th largest in the united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Coventry http://dbpedia.org/resource/United_Kingdom
+coventry ) is a city and metropolitan borough in the west midlands, england	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Coventry http://dbpedia.org/resource/England
+coventry ) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Coventry http://dbpedia.org/resource/City
+nevada is a state in the western, mountain west, and southwestern regions of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Nevada http://dbpedia.org/resource/United_States
+nevada is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Nevada http://dbpedia.org/resource/State
+tennessee is the 36th largest and the 16th most populous of the 50 united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Tennessee http://dbpedia.org/resource/United_States
+tennessee is the 36th largest and the 16th most populous of the 50 united state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Tennessee http://dbpedia.org/resource/State
+wolverhampton is one of the 243 travel to work areas in the united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Wolverhampton http://dbpedia.org/resource/United_Kingdom
+wolverhampton ) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Wolverhampton http://dbpedia.org/resource/City
+sheffield was particularly hard hit during the 2007 united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Sheffield http://dbpedia.org/resource/United_Kingdom
+sheffield ) is a city and metropolitan borough in south yorkshire, england	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Sheffield http://dbpedia.org/resource/England
+sheffield ) is a city and metropolitan borough in south yorkshire	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Sheffield http://dbpedia.org/resource/Yorkshire
+sheffield ) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Sheffield http://dbpedia.org/resource/City
+zakynthos became part of the byzantine theme of cephallenia, a military-civilian province located in western greece	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Zakynthos http://dbpedia.org/resource/Greece
+zakynthos is a separate regional unit of the ionian island	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Zakynthos http://dbpedia.org/resource/Island
+belarus is also the last country	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Belarus http://dbpedia.org/resource/Country
+belarus (belarusian: рэспубліка беларусь; russia	http://dbpedia.org/property/east http://dbpedia.org/resource/Belarus http://dbpedia.org/resource/Russia
+belarus and parts of ukraine	http://dbpedia.org/property/south http://dbpedia.org/resource/Belarus http://dbpedia.org/resource/Ukraine
+belarus lost almost half of its territory to poland	http://dbpedia.org/property/west http://dbpedia.org/resource/Belarus http://dbpedia.org/resource/Poland
+belarus (belarusian: рэспубліка беларусь; russia	http://dbpedia.org/property/north http://dbpedia.org/resource/Belarus http://dbpedia.org/resource/Russia
+novi sad is the industrial and financial center of the serbia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Novi_Sad http://dbpedia.org/resource/Serbia
+novi sad used by the local administration are: in both croatian and romanian, which are official in the provincial administration, the city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Novi_Sad http://dbpedia.org/resource/City
+cardiff is one of the most popular tourist destination cities in the united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Cardiff http://dbpedia.org/resource/United_Kingdom
+cardiff ; welsh: caerdydd welsh pronunciation: [kairˈdiːð, kaˑɨrˈdɨːð]) is the capital and largest city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Cardiff http://dbpedia.org/resource/City
+cardiff ; welsh: caerdydd welsh pronunciation: [kairˈdiːð, kaˑɨrˈdɨːð]) is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Cardiff http://dbpedia.org/resource/Capital
+new hampshire is a state in the new england region of the northeastern united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/New_Hampshire http://dbpedia.org/resource/United_States
+new hampshire is the 5th smallest by land area and the 10th least populous of the 50 state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/New_Hampshire http://dbpedia.org/resource/State
+illinois il-ih-noy) is a state in the midwestern region of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Illinois http://dbpedia.org/resource/United_States
+illinois il-ih-noy) is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Illinois http://dbpedia.org/resource/State
+sarajevo is the capital and largest city of bosnia and herzegovina	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Sarajevo http://dbpedia.org/resource/Bosnia_and_Herzegovina
+sarajevo is the capital and largest city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Sarajevo http://dbpedia.org/resource/City
+sarajevo is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Sarajevo http://dbpedia.org/resource/Capital
+north dakota ) is a u.s. state in the midwestern and northern regions of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/North_Dakota http://dbpedia.org/resource/United_States
+north dakota ) is a u.s. state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/North_Dakota http://dbpedia.org/resource/State
+indiana is the 38th largest by area and the 17th most populous of the 50 united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Indiana http://dbpedia.org/resource/United_States
+indiana is a u.s. state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Indiana http://dbpedia.org/resource/State
+harbin serves as a key political, economic, scientific, cultural, and communications hub in northeast china	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Harbin http://dbpedia.org/resource/China
+harbin is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Harbin http://dbpedia.org/resource/Capital
+miami is a major port city on the atlantic coast of south florida in the southeastern united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Miami http://dbpedia.org/resource/United_States
+miami is a major port city on the atlantic coast of south florida	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Miami http://dbpedia.org/resource/Florida
+miami is a major port city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Miami http://dbpedia.org/resource/City
+moscow is recognized as a russia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Moscow http://dbpedia.org/resource/Russia
+moscow oblast, the area of the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Moscow http://dbpedia.org/resource/Capital
+new mexico fought for the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/New_Mexico http://dbpedia.org/resource/United_States
+new mexico is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/New_Mexico http://dbpedia.org/resource/State
+essen ; latin: assindia) is a city in north rhine-westphalia, germany	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Essen http://dbpedia.org/resource/Germany
+essen ; latin: assindia) is a city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Essen http://dbpedia.org/resource/City
+essen ; latin: assindia) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Essen http://dbpedia.org/resource/City
+brooklyn is the most populous borough of new york	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Brooklyn http://dbpedia.org/resource/New_York
+brooklyn is the most populous borough of new york city	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Brooklyn http://dbpedia.org/resource/New_York_City
+cleveland is a city in the u.s. state of ohio	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Cleveland http://dbpedia.org/resource/Ohio
+cleveland is a city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Cleveland http://dbpedia.org/resource/City
+cleveland is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Cleveland http://dbpedia.org/resource/City
+mumbai is the capital city of the india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Mumbai http://dbpedia.org/resource/India
+mumbai is the capital city of the indian state of maharashtra	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Mumbai http://dbpedia.org/resource/Maharashtra
+mumbai is the capital city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Mumbai http://dbpedia.org/resource/City
+cincinnati is the third-largest city proper in ohio and the 65th-biggest in the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Cincinnati http://dbpedia.org/resource/United_States
+cincinnati is a city in the u.s. state of ohio	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Cincinnati http://dbpedia.org/resource/Ohio
+cincinnati is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Cincinnati http://dbpedia.org/resource/City
+liverpool is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Liverpool http://dbpedia.org/resource/City
+trieste is a city and a seaport in northeastern italy	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Trieste http://dbpedia.org/resource/Italy
+trieste is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Trieste http://dbpedia.org/resource/City
+idaho ) is a state in the northwestern region of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Idaho http://dbpedia.org/resource/United_States
+idaho ) is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Idaho http://dbpedia.org/resource/State
+derry , officially londonderry , is the second-largest city in northern ireland	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Derry http://dbpedia.org/resource/Northern_Ireland
+derry port at lisahally is the united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Derry http://dbpedia.org/resource/United_Kingdom
+derry , officially londonderry , is the second-largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Derry http://dbpedia.org/resource/City
+milan appears to have been founded around 600 bc by the celtic insubres, after whom this region of northern italy	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Milan http://dbpedia.org/resource/Italy
+milan is considered a leading alpha global city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Milan http://dbpedia.org/resource/City
+prussia , with its capital in königsberg and from 1701 in berlin	http://dbpedia.org/ontology/capital http://dbpedia.org/resource/Prussia http://dbpedia.org/resource/Berlin
+prussia was a historically prominent german state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Prussia http://dbpedia.org/resource/State
+brittany replaced latin with french as its official language in the 13th century, 300 years before france	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Brittany http://dbpedia.org/resource/France
+brittany ; breton: breizh, pronounced [bʁɛjs] or [bʁɛχ]; gallo: bertaèyn, pronounced [bəʁtaɛɲ]) is a cultural region	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Brittany http://dbpedia.org/resource/Region
+kentucky is the 37th most extensive and the 26th most populous of the 50 united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Kentucky http://dbpedia.org/resource/United_States
+kentucky kən-tuk-ee), officially the commonwealth of kentucky, is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Kentucky http://dbpedia.org/resource/State
+valparaíso is a major city, seaport, and educational center in the commune of valparaíso, chile	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Valparaíso http://dbpedia.org/resource/Chile
+valparaíso is a major city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Valparaíso http://dbpedia.org/resource/City
+edmonton had a metropolitan population of 1,321,426, making it the sixth-largest census metropolitan area in canada	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Edmonton http://dbpedia.org/resource/Canada
+edmonton is the capital city of the canadian province of alberta	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Edmonton http://dbpedia.org/resource/Alberta
+edmonton is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Edmonton http://dbpedia.org/resource/Capital
+sofia ( soh-fee-ə, sof-, soh-fee-ə; bulgaria	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Sofia http://dbpedia.org/resource/Bulgaria
+sofia , such as serdonpolis (σερδών πόλις, " city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Sofia http://dbpedia.org/resource/City
+sofia was europe's most affordable capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Sofia http://dbpedia.org/resource/Capital
+heilbronn ) is a city in northern baden-württemberg, germany	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Heilbronn http://dbpedia.org/resource/Germany
+heilbronn ) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Heilbronn http://dbpedia.org/resource/City
+waterford fjord", irish: port láirge) is a city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Waterford http://dbpedia.org/resource/City
+waterford fjord", irish: port láirge) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Waterford http://dbpedia.org/resource/City
+york shire, the boundary commission for england	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/York http://dbpedia.org/resource/England
+york ) is a historic walled city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/York http://dbpedia.org/resource/City
+manchester was granted "city status" in the united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Manchester http://dbpedia.org/resource/United_Kingdom
+manchester is a city and metropolitan borough in greater manchester, england	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Manchester http://dbpedia.org/resource/England
+manchester is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Manchester http://dbpedia.org/resource/City
+madurai is one of the major city in the india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Madurai http://dbpedia.org/resource/India
+madurai is one of the major city in the indian state of tamil nadu	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Madurai http://dbpedia.org/resource/Tamil_Nadu
+madurai is one of the major city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Madurai http://dbpedia.org/resource/City
+madurai is one of the major city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Madurai http://dbpedia.org/resource/City
+paris ) is the capital and most populous city in france	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Paris http://dbpedia.org/resource/France
+paris ) is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Paris http://dbpedia.org/resource/Capital
+saint petersburg to petrograd ( russia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Saint_Petersburg http://dbpedia.org/resource/Russia
+saint petersburg ruled that no structure in the city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Saint_Petersburg http://dbpedia.org/resource/City
+staten island is the southernmost of the five boroughs of new york	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Staten_Island http://dbpedia.org/resource/New_York
+staten island is the southernmost of the five boroughs of new york city	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Staten_Island http://dbpedia.org/resource/New_York_City
+staten island bridges, created a new way for commuters and tourists to travel from new jersey to brooklyn	http://dbpedia.org/property/east http://dbpedia.org/resource/Staten_Island http://dbpedia.org/resource/Brooklyn
+florida ; spanish for "land of flowers") is the southernmost contiguous state in the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Florida http://dbpedia.org/resource/United_States
+florida ; spanish for "land of flowers") is the southernmost contiguous state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Florida http://dbpedia.org/resource/State
+michigan ) is a state in the great lakes and midwestern regions of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Michigan http://dbpedia.org/resource/United_States
+michigan ) is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Michigan http://dbpedia.org/resource/State
+michigan 's upper peninsula and northern and central michigan, and also inhabited ontario	http://dbpedia.org/property/east http://dbpedia.org/resource/Michigan http://dbpedia.org/resource/Ontario
+michigan , but also in southern ontario, northern ohio	http://dbpedia.org/property/south http://dbpedia.org/resource/Michigan http://dbpedia.org/resource/Ohio
+michigan became part of the indiana	http://dbpedia.org/property/south http://dbpedia.org/resource/Michigan http://dbpedia.org/resource/Indiana
+michigan 's upper peninsula and northern and central michigan, and also inhabited ontario, northern wisconsin	http://dbpedia.org/property/west http://dbpedia.org/resource/Michigan http://dbpedia.org/resource/Wisconsin
+michigan 's upper peninsula and northern and central michigan, and also inhabited ontario	http://dbpedia.org/property/north http://dbpedia.org/resource/Michigan http://dbpedia.org/resource/Ontario
+stuttgart is also a transport junction, and possesses the sixth-largest airport in germany	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Stuttgart http://dbpedia.org/resource/Germany
+stuttgart ; swabian: schduagert, pronounced [ˈʒ̊d̥ua̯ɡ̊ɛʕd̥]; names in other languages) is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Stuttgart http://dbpedia.org/resource/Capital
+bucharest is the most prosperous city in romania	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Bucharest http://dbpedia.org/resource/Romania
+bucharest ) is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Bucharest http://dbpedia.org/resource/Capital
+lithuania was the largest country in europe; present-day lithuania, belarus	http://dbpedia.org/property/east http://dbpedia.org/resource/Lithuania http://dbpedia.org/resource/Belarus
+lithuania was the largest country in europe; present-day lithuania, belarus	http://dbpedia.org/property/south http://dbpedia.org/resource/Lithuania http://dbpedia.org/resource/Belarus
+lithuania n, along with latvia	http://dbpedia.org/property/north http://dbpedia.org/resource/Lithuania http://dbpedia.org/resource/Latvia
+oxford is a city in the south east region of england	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Oxford http://dbpedia.org/resource/England
+oxford is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Oxford http://dbpedia.org/resource/City
+nagpur is the winter capital, a sprawling metropolis, and the third-largest city of the india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Nagpur http://dbpedia.org/resource/India
+nagpur is the winter capital, a sprawling metropolis, and the third-largest city of the indian state of maharashtra	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Nagpur http://dbpedia.org/resource/Maharashtra
+nagpur is the winter capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Nagpur http://dbpedia.org/resource/Capital
+madrid ]) is the capital of and spain	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Madrid http://dbpedia.org/resource/Spain
+madrid is the 17th most liveable city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Madrid http://dbpedia.org/resource/City
+atlanta is the capital and most populous city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Atlanta http://dbpedia.org/resource/City
+atlanta is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Atlanta http://dbpedia.org/resource/Capital
+new york city or simply new york, is the most populous city in the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/New_York_City http://dbpedia.org/resource/United_States
+new york city consists of five boroughs, each of which is a separate county of the state of new york	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/New_York_City http://dbpedia.org/resource/New_York
+new york city was of chinese ethnicity, with nearly three-fourths living in either queens or brooklyn	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/New_York_City http://dbpedia.org/resource/Brooklyn
+st. louis area , making it the largest metropolitan area in missouri and the 19th-largest in the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/St._Louis http://dbpedia.org/resource/United_States
+st. louis is an independent city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/St._Louis http://dbpedia.org/resource/City
+odessa or odesa is the third most populous city of ukraine	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Odessa http://dbpedia.org/resource/Ukraine
+odessa or odesa is the third most populous city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Odessa http://dbpedia.org/resource/City
+connecticut ) is the southernmost state in the new england region of the northeastern united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Connecticut http://dbpedia.org/resource/United_States
+connecticut ) is the southernmost state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Connecticut http://dbpedia.org/resource/State
+sydney ) is the state capital of new south wales and the most populous city in australia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Sydney http://dbpedia.org/resource/Australia
+sydney ) is the state capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Sydney http://dbpedia.org/resource/Capital
+calgary ) is a city in the canadian province of alberta	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Calgary http://dbpedia.org/resource/Alberta
+calgary ) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Calgary http://dbpedia.org/resource/City
+chicago area, of which northwestern university, the university of chicago, and the university of illinois	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Chicago http://dbpedia.org/resource/Illinois
+chicago ), officially the , is the third most populous city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Chicago http://dbpedia.org/resource/City
+chhattisgarh is one of the 29 states of india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Chhattisgarh http://dbpedia.org/resource/India
+chhattisgarh is one of the 29 state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Chhattisgarh http://dbpedia.org/resource/State
+chhattisgarh borders the states of madhya pradesh in the northwest, maharashtra	http://dbpedia.org/property/west http://dbpedia.org/resource/Chhattisgarh http://dbpedia.org/resource/Maharashtra
+kyoto or in other cities such as kamakura and edo , kyoto remained japan	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Kyoto http://dbpedia.org/resource/Japan
+kyoto , pronounced [kʲoːtoꜜɕi] ; uk: , us: , or ) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Kyoto http://dbpedia.org/resource/City
+north carolina ) is a u.s. state in the southeastern region of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/North_Carolina http://dbpedia.org/resource/United_States
+north carolina ) is a u.s. state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/North_Carolina http://dbpedia.org/resource/State
+recife was founded in 1537, during the early portuguese colonization of brazil	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Recife http://dbpedia.org/resource/Brazil
+recife is the region's main industrial area	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Recife http://dbpedia.org/resource/Area
+plymouth ) is a city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Plymouth http://dbpedia.org/resource/City
+plymouth ) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Plymouth http://dbpedia.org/resource/City
+bonn is in the southernmost part of the rhine-ruhr region, germany	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Bonn http://dbpedia.org/resource/Germany
+bonn ) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Bonn http://dbpedia.org/resource/City
+baltimore is the largest independent city in the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Baltimore http://dbpedia.org/resource/United_States
+baltimore is the largest city in the u.s. state of maryland	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Baltimore http://dbpedia.org/resource/Maryland
+baltimore is the largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Baltimore http://dbpedia.org/resource/City
+south carolina ) is a u.s. state in the southeastern region of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/South_Carolina http://dbpedia.org/resource/United_States
+south carolina ) is a u.s. state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/South_Carolina http://dbpedia.org/resource/State
+houston hyoo-stən) is the most populous city in the u.s. state of texas	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Houston http://dbpedia.org/resource/Texas
+houston hyoo-stən) is the most populous city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Houston http://dbpedia.org/resource/City
+gotha is the fifth-largest city in thuringia, germany	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Gotha http://dbpedia.org/resource/Germany
+gotha is the fifth-largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Gotha http://dbpedia.org/resource/City
+tel aviv is the second most populous city in israel	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Tel_Aviv http://dbpedia.org/resource/Israel
+tel aviv is the second most populous city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Tel_Aviv http://dbpedia.org/resource/City
+amsterdam ) is the capital and most populous municipality of the netherlands	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Amsterdam http://dbpedia.org/resource/Netherlands
+amsterdam has a population of 851,373 within the city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Amsterdam http://dbpedia.org/resource/City
+jerusalem as their capital, as israel	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Jerusalem http://dbpedia.org/resource/Israel
+manhattan is the most densely populated borough of new york	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Manhattan http://dbpedia.org/resource/New_York
+manhattan is the most densely populated borough of new york city	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Manhattan http://dbpedia.org/resource/New_York_City
+manhattan has the third-largest population of new york city's five boroughs, after brooklyn	http://dbpedia.org/property/south http://dbpedia.org/resource/Manhattan http://dbpedia.org/resource/Brooklyn
+arizona was initially administered by the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Arizona http://dbpedia.org/resource/United_States
+arizona ; navajo: hoozdo hahoodzo [xòːztò xɑ̀xòːtsò]; o'odham: alĭ ṣonak [ˡaɺi ˡʂonak]) is a u.s. state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Arizona http://dbpedia.org/resource/State
+homs " or "hims" by its arab inhabitants, many of whom settled there prior to the muslim conquest of syria	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Homs http://dbpedia.org/resource/Syria
+homs , previously known as emesa or emisa , is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Homs http://dbpedia.org/resource/City
+queens is the easternmost and largest in area of the five boroughs of new york	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Queens http://dbpedia.org/resource/New_York
+queens is the easternmost and largest in area of the five boroughs of new york city	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Queens http://dbpedia.org/resource/New_York_City
+queens county since 1899, the borough of queens is the second-largest in population (after brooklyn	http://dbpedia.org/property/west http://dbpedia.org/resource/Queens http://dbpedia.org/resource/Brooklyn
+nottingham not-ing-əm) is a city and unitary authority area in nottinghamshire, england	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Nottingham http://dbpedia.org/resource/England
+nottingham not-ing-əm) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Nottingham http://dbpedia.org/resource/City
+south australia is a state in the southern central part of australia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/South_Australia http://dbpedia.org/resource/Australia
+south australia is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/South_Australia http://dbpedia.org/resource/State
+cambridge science festival, typically held annually in march, is the united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Cambridge http://dbpedia.org/resource/United_Kingdom
+cambridge is a university city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Cambridge http://dbpedia.org/resource/City
+ballarat is a city located on the yarrowee river in the central highlands of victoria, australia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Ballarat http://dbpedia.org/resource/Australia
+ballarat is the third largest inland city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Ballarat http://dbpedia.org/resource/City
+thessaloniki ), also familiarly known as thessalonica or salonica, is the second-largest city in greece	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Thessaloniki http://dbpedia.org/resource/Greece
+thessaloniki ), also familiarly known as thessalonica or salonica, is the second-largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Thessaloniki http://dbpedia.org/resource/City
+sichuan , formerly romanized as szechuan or szechwan, is a province	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Sichuan http://dbpedia.org/resource/Province
+oklahoma ; pawnee: uukuhuúwa, cayuga: gahnawiyoˀgeh) is a state in the south central region of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Oklahoma http://dbpedia.org/resource/United_States
+oklahoma ; pawnee: uukuhuúwa, cayuga: gahnawiyoˀgeh) is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Oklahoma http://dbpedia.org/resource/State
+aarhus ; officially spelled århus from 1948 until 31 december 2010) is the second-largest city in denmark	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Aarhus http://dbpedia.org/resource/Denmark
+aarhus ; officially spelled århus from 1948 until 31 december 2010) is the second-largest city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Aarhus http://dbpedia.org/resource/City
+aarhus ; officially spelled århus from 1948 until 31 december 2010) is the second-largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Aarhus http://dbpedia.org/resource/City
+philadelphia is the largest city in the commonwealth of pennsylvania and the sixth-most populous city in the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Philadelphia http://dbpedia.org/resource/United_States
+philadelphia is the largest city in the commonwealth of pennsylvania	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Philadelphia http://dbpedia.org/resource/Pennsylvania
+philadelphia is the largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Philadelphia http://dbpedia.org/resource/City
+montreal is one of the most bilingual cities in quebec and canada	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Montreal http://dbpedia.org/resource/Canada
+montreal , which took its name from the same source as the city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Montreal http://dbpedia.org/resource/City
+pennsylvania is the 33rd-largest, the 5th-most populous, and the 9th-most densely populated of the 50 united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Pennsylvania http://dbpedia.org/resource/United_States
+pennsylvania ; pennsylvania german: pennsylvaani or pennsilfaani), officially the commonwealth of pennsylvania, is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Pennsylvania http://dbpedia.org/resource/State
+patna is the capital and largest city of the state of bihar in india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Patna http://dbpedia.org/resource/India
+patna is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Patna http://dbpedia.org/resource/Capital
+vilnius is in the southeast part of lithuania	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Vilnius http://dbpedia.org/resource/Lithuania
+vilnius , see also other names) is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Vilnius http://dbpedia.org/resource/Capital
+dunedin də-nee-din; māori: ōtepoti) is the second-largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Dunedin http://dbpedia.org/resource/City
+leeds is among the drier cities in the united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Leeds http://dbpedia.org/resource/United_Kingdom
+leeds is a city in west yorkshire, england	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Leeds http://dbpedia.org/resource/England
+leeds is a city in west yorkshire	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Leeds http://dbpedia.org/resource/Yorkshire
+leeds is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Leeds http://dbpedia.org/resource/City
+glasgow is the largest city in scotland	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Glasgow http://dbpedia.org/resource/Scotland
+glasgow than in the rest of the united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Glasgow http://dbpedia.org/resource/United_Kingdom
+glasgow is the largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Glasgow http://dbpedia.org/resource/City
+maine is a u.s. state in the new england region of the northeastern united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Maine http://dbpedia.org/resource/United_States
+maine is a u.s. state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Maine http://dbpedia.org/resource/State
+chandigarh ) is a city and a union territory in india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Chandigarh http://dbpedia.org/resource/India
+chandigarh ) is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Chandigarh http://dbpedia.org/resource/City
+alabama is a state in the southeastern region of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Alabama http://dbpedia.org/resource/United_States
+alabama is the 30th largest by area and the 24th-most populous of the u.s. state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Alabama http://dbpedia.org/resource/State
+lahore is the capital city of the pakistan	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Lahore http://dbpedia.org/resource/Pakistan
+lahore is the capital city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Lahore http://dbpedia.org/resource/City
+long island is a densely populated island	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Long_Island http://dbpedia.org/resource/Island
+brno ; german: brünn) is the second largest city in the czech republic	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Brno http://dbpedia.org/resource/Czech_Republic
+brno ; german: brünn) is the second largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Brno http://dbpedia.org/resource/City
+vermont ) is a state in the new england region of the northeastern united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Vermont http://dbpedia.org/resource/United_States
+vermont ) is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Vermont http://dbpedia.org/resource/State
+queensland is the second-largest and third-most-populous state in the commonwealth of australia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Queensland http://dbpedia.org/resource/Australia
+queensland is the second-largest and third-most-populous state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Queensland http://dbpedia.org/resource/State
+rio de janeiro ʒɐˈnejɾu]; river of january), or simply rio, is the second-most populous municipality in brazil	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Rio_de_Janeiro http://dbpedia.org/resource/Brazil
+rio de janeiro was the host of the 2016 summer olympics and the 2016 summer paralympics, making the city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Rio_de_Janeiro http://dbpedia.org/resource/City
+iowa ) is a u.s. state in the midwestern united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Iowa http://dbpedia.org/resource/United_States
+iowa ) is a u.s. state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Iowa http://dbpedia.org/resource/State
+barcelona is a city in spain	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Barcelona http://dbpedia.org/resource/Spain
+barcelona is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Barcelona http://dbpedia.org/resource/City
+havana – the sixth town founded by the spanish on cuba	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Havana http://dbpedia.org/resource/Cuba
+havana ) is the capital city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Havana http://dbpedia.org/resource/City
+chengdu ), formerly romanized as chengtu, is a sub-provincial city which serves as the capital of china	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Chengdu http://dbpedia.org/resource/China
+chengdu ), formerly romanized as chengtu, is a sub-provincial city which serves as the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Chengdu http://dbpedia.org/resource/Capital
+canberra , ) is the capital city of australia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Canberra http://dbpedia.org/resource/Australia
+canberra , ) is the capital city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Canberra http://dbpedia.org/resource/City
+west virginia is a state located in the appalachian region of the southern united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/West_Virginia http://dbpedia.org/resource/United_States
+west virginia is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/West_Virginia http://dbpedia.org/resource/State
+karachi ; sindhi: ڪراچي‎) is the capital of the pakistan	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Karachi http://dbpedia.org/resource/Pakistan
+sierra leone ), officially the republic of sierra leone, is a country	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Sierra_Leone http://dbpedia.org/resource/Country
+maharashtra is the largest state-economy in india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Maharashtra http://dbpedia.org/resource/India
+maharashtra 's second capital as well as its winter capitalp maharashtra is the wealthiest state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Maharashtra http://dbpedia.org/resource/State
+los angeles was claimed by juan rodríguez cabrillo for spain in 1542 along with the rest of what would become alta california	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Los_Angeles http://dbpedia.org/resource/California
+los angeles ; spanish for "the angels"; spanish: [los ˈaŋxeles]; officially: the city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Los_Angeles http://dbpedia.org/resource/City
+gwalior is a major and the northern-most city in the india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Gwalior http://dbpedia.org/resource/India
+gwalior is a major and the northern-most city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Gwalior http://dbpedia.org/resource/City
+arkansas is a state in the southeastern region of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Arkansas http://dbpedia.org/resource/United_States
+arkansas is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Arkansas http://dbpedia.org/resource/State
+new jersey is a state in the mid-atlantic region of the northeastern united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/New_Jersey http://dbpedia.org/resource/United_States
+new jersey is the fourth-smallest state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/New_Jersey http://dbpedia.org/resource/State
+tasmania is an island state of australia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Tasmania http://dbpedia.org/resource/Australia
+tasmania is an island state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Tasmania http://dbpedia.org/resource/State
+swansea is the second largest city in wales and the twenty-fifth largest city in the united kingdom	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Swansea http://dbpedia.org/resource/United_Kingdom
+swansea is the second largest city in wales	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Swansea http://dbpedia.org/resource/Wales
+swansea , officially known as the , is a coastal city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Swansea http://dbpedia.org/resource/City
+barranquilla is a city and municipality located in northern colombia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Barranquilla http://dbpedia.org/resource/Colombia
+barranquilla is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Barranquilla http://dbpedia.org/resource/City
+dresden is again a cultural, educational and political centre of germany	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Dresden http://dbpedia.org/resource/Germany
+dresden ; czech: drážďany, polish: drezno) is the capital city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Dresden http://dbpedia.org/resource/City
+ipswich ) is the county town of suffolk, england	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Ipswich http://dbpedia.org/resource/England
+ipswich ) is the county town	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Ipswich http://dbpedia.org/resource/Town
+ipswich ) is the county town	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Ipswich http://dbpedia.org/resource/Town
+oregon ) is a state in the pacific northwest region on the west coast of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Oregon http://dbpedia.org/resource/United_States
+oregon ) is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Oregon http://dbpedia.org/resource/State
+melbourne ) is the state capital and most populous city of the australia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Melbourne http://dbpedia.org/resource/Australia
+melbourne ) is the state capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Melbourne http://dbpedia.org/resource/Capital
+assam is a state in northeast india	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Assam http://dbpedia.org/resource/India
+assam is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Assam http://dbpedia.org/resource/State
+dallas –fort worth metroplex, which is the fourth most populous metropolitan area in the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Dallas http://dbpedia.org/resource/United_States
+dallas is a city in the u.s. state of texas	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Dallas http://dbpedia.org/resource/Texas
+dallas is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Dallas http://dbpedia.org/resource/City
+hamburg remains an important financial center, the seat of germany	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Hamburg http://dbpedia.org/resource/Germany
+hamburg 's history as a member of the medieval hanseatic league, a free imperial city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Hamburg http://dbpedia.org/resource/City
+the bronx is the northernmost of the five boroughs of new york	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/The_Bronx http://dbpedia.org/resource/New_York
+the bronx is the northernmost of the five boroughs of new york city	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/The_Bronx http://dbpedia.org/resource/New_York_City
+limerick is a city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Limerick http://dbpedia.org/resource/City
+limerick is a city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Limerick http://dbpedia.org/resource/City
+latvia was established on 18 november 1918 when it broke away and declared independence from russia	http://dbpedia.org/property/east http://dbpedia.org/resource/Latvia http://dbpedia.org/resource/Russia
+latvia ) fell under polish and lithuania	http://dbpedia.org/property/south http://dbpedia.org/resource/Latvia http://dbpedia.org/resource/Lithuania
+latvia in the russian empire = the capitulation of estonia	http://dbpedia.org/property/north http://dbpedia.org/resource/Latvia http://dbpedia.org/resource/Estonia
+tallinn ( or , estonia	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Tallinn http://dbpedia.org/resource/Estonia
+tallinn is the capital and largest city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Tallinn http://dbpedia.org/resource/City
+tallinn is the capital	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Tallinn http://dbpedia.org/resource/Capital
+iași ; also referred to as jassy or iassy) is the second-largest city in romania	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Iași http://dbpedia.org/resource/Romania
+iași ; also referred to as jassy or iassy) is the second-largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Iași http://dbpedia.org/resource/City
+leipzig is the most populous city in the federal state of saxony, germany	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Leipzig http://dbpedia.org/resource/Germany
+leipzig is the most populous city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Leipzig http://dbpedia.org/resource/City
+milwaukee is the largest city in the state of wisconsin and the fifth-largest city in the midwestern united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Milwaukee http://dbpedia.org/resource/United_States
+milwaukee is the largest city in the state of wisconsin	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Milwaukee http://dbpedia.org/resource/Wisconsin
+milwaukee is the largest city	http://dbpedia.org/ontology/type http://dbpedia.org/resource/Milwaukee http://dbpedia.org/resource/City
+milwaukee is the largest city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Milwaukee http://dbpedia.org/resource/City
+montana is a u.s. state in the northwestern region of the united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Montana http://dbpedia.org/resource/United_States
+montana is a u.s. state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Montana http://dbpedia.org/resource/State
+utah is a state in the western united states	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Utah http://dbpedia.org/resource/United_States
+utah is a state	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Utah http://dbpedia.org/resource/State
+san diego is a major city in california	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/San_Diego http://dbpedia.org/resource/California
+san diego is a major city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/San_Diego http://dbpedia.org/resource/City
+ottawa or ; french pronunciation: ​[ɔtawa]) is the capital city of canada	http://dbpedia.org/ontology/country http://dbpedia.org/resource/Ottawa http://dbpedia.org/resource/Canada
+ottawa river in the eastern portion of southern ontario	http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Ottawa http://dbpedia.org/resource/Ontario
+ottawa or ; french pronunciation: ​[ɔtawa]) is the capital city	http://purl.org/linguistics/gold/hypernym http://dbpedia.org/resource/Ottawa http://dbpedia.org/resource/City
+parazoanthus axinellae frequently forms dense agglomerations, often in association with the soft coral	http://dbpedia.org/ontology/class http://dbpedia.org/resource/Parazoanthus_axinellae http://dbpedia.org/resource/Coral
+porites that are collected have christmas tree worms that bore into the coral	http://dbpedia.org/ontology/class http://dbpedia.org/resource/Porites http://dbpedia.org/resource/Coral
+lophelia reefs in the waters off north carolina may be 40,000 years old, with individual living coral	http://dbpedia.org/ontology/class http://dbpedia.org/resource/Lophelia http://dbpedia.org/resource/Coral
+scolymia lacera is an aggressive coral	http://dbpedia.org/ontology/class http://dbpedia.org/resource/Scolymia_lacera http://dbpedia.org/resource/Coral
+acanthastrea brevis is a vulnerable species of stony coral	http://dbpedia.org/ontology/class http://dbpedia.org/resource/Acanthastrea_brevis http://dbpedia.org/resource/Coral
+acanthastrea bowerbanki is a vulnerable species of coral	http://dbpedia.org/ontology/class http://dbpedia.org/resource/Acanthastrea_bowerbanki http://dbpedia.org/resource/Coral
+blastomussa wellsi consists of a small group of coral	http://dbpedia.org/ontology/class http://dbpedia.org/resource/Blastomussa_wellsi http://dbpedia.org/resource/Coral
