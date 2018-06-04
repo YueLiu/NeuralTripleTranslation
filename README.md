@@ -1,4 +1,4 @@
-## NeuralTripleTranslation
+## Neural Triple Translation
 
 An end-to-end tool for generating triples from natural language sentences. Given a natural language sentence, this code determine the entities and identify relationships between entities and generate a corresponding RDF triple which is aligned with the trained knwoeldge graph vocabularies.
 
