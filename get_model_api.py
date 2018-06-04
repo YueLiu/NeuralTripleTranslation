@@ -39,7 +39,7 @@ def feeder_generator(raw_inputs, token_idx_dict, pretrained_dict):
 
 def s2s_end2end(sentence):
 
-    pkl_name = "/Users/liuyue0027/Desktop/NeuralTripleTranslation/data/20180525.pkl"
+    pkl_name = "data/20180525.pkl"
     token_idx_dict, idx_token_dict, ontology_idx_dict, idx_ontology_dict, pretrained_dict, train_token, test_token, train_ontology, test_ontology = pickle.load(
         open(pkl_name, "rb"))
     # embedding_matrix = pickle.load(open("data/20180524_graph.pkl", "rb"))
@@ -59,7 +59,7 @@ def s2s_end2end(sentence):
     input_dict = feeder_generator([raw_input_list], token_idx_dict, pretrained_dict)
 
 
-    s2s_core.load("/Users/liuyue0027/Desktop/NeuralTripleTranslation/data/00120.tfmodel")
+    s2s_core.load("data/00120.tfmodel")
     predict_result = s2s_core.predict(input_dict)
     predict_list = predict_result.sample_id[:, 0:3].tolist()
 
