@@ -4,27 +4,26 @@ An end-to-end tool for generating triples from natural language sentences. Given
 
 ### Preprocess
 
-*.tfmodel.data-* and the *.pkl* file
+The preprocess folder contains the implementation of distant supervision and data cleanning using certain NLP tools and regular expressions with regard to owls and txts respectively.
 
 ### Data
 
-We [process](https://github.com/shanzhenren/StructMineDataPipeline) (using our [data pipeline](https://github.com/shanzhenren/StructMineDataPipeline)) three public datasets to our JSON format. We ran [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml) on training set to detect entity mentions, and performed distant supervision using [DBpediaSpotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight) to assign type labels:
+We ran [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml) on Wiki-DBpedia training set to detect entity mentions, and performed distant supervision using [DBpediaSpotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight) to assign type labels:
 
-   * **ADE**: Adverse drug events
+   * **ADE**: [Adverse drug events dataset](https://sites.google.com/site/adecorpus/) 
    * **NYT** ([Riedel et al., 2011](https://pdfs.semanticscholar.org/db55/0f7af299157c67d7f1874bf784dca10ce4a9.pdf)): 1.18M sentences sampled from 294K New York Times news articles. 395 sentences are manually annotated with 24 relation types and 47 entity types. ([Download JSON](https://drive.google.com/drive/folders/0B--ZKWD8ahE4UktManVsY1REOUk?usp=sharing))
    * **Wiki-DB**: the training corpus contains 500k sentences sampled from Wikipedia articles. Test data consists of 2k mannually labeled sentences. It has 37 relation types and 46 entity types after filtering of numeric value-related relations. ([Download](http://blender04.cs.rpi.edu/~zhangt13/))
 
-## Dependencies
-
-We will take Ubuntu for example.
+## Required Dependencies
 
 * python 3
 * flask
 * tensorflow
+* json
 
 We used Anaconda for this work.
 
-### Parameters
+### Hyperparameters
 
 Detailed information for parameters and external resources
 
@@ -44,4 +43,12 @@ For our proposed approach, we randomly initialize a 512-dimension vector for eac
 
 ### KG embeddings training
 
-We learned the 100-dimension embeddings from 2,497,196 DBpedia triples that includes 1,238,671 distinct entities and 3,359 relations.
+We learned the 100-dimension embeddings from 2,497,196 DBpedia triples that includes 1,238,671 distinct entities and 3,359 relations using the TransE model.
+
+## Default Run
+
+Run *main.py* for the baseline of *Relation Extraction* on the Wiki-DBpedia dataset
+
+Run *main.py* for deploy the flask web-application
+
+Two needed tensorflow outputs *.tfmodel.data-* and the *.pkl* file are not uploaded here due to the size issue. You should be able to get them after training.
