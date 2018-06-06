@@ -2,6 +2,8 @@
 
 An end-to-end tool for generating triples from natural language sentences. Given a natural language sentence, this code determine the entities and identify relationships between entities and generate a corresponding RDF triple which is aligned with the trained knwoeldge graph vocabularies.
 
+A Demo video is [available](https://youtu.be/ssiQEDF-HHE).
+
 ### Preprocess
 
 The preprocess folder contains the implementation of distant supervision and data cleanning using certain NLP tools and regular expressions with regard to owls and txts respectively.
