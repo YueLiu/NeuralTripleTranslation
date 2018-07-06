@@ -47,7 +47,7 @@ For our proposed approach, we randomly initialize a 512-dimension vector for eac
 
 ### KG embeddings training
 
-We learned the 100-dimension embeddings from 2,497,196 DBpedia triples that includes 1,238,671 distinct entities and 3,359 relations using the TransE model.
+We learned the 100-dimension embeddings from 2,497,196 DBpedia triples that includes 1,238,671 distinct entities and 3,359 relations using the TransE model. The code is modified based on this *[Open-Source Package for Knowledge Embedding](https://github.com/thunlp/OpenKE)*
 
 ### Default Run
 
