@@ -1,8 +1,6 @@
 ## Neural Triple Translation
 
-An end-to-end tool for generating triples from natural language sentences. Given a natural language sentence, this code determine the entities and identify relationships between entities and generate a corresponding RDF triple which is aligned with the trained knwoeldge graph vocabularies.
-
-This repo contains the source code for ISWC'18 paper *[Seq2RDF: An end-to-end application for deriving Triples from Natural Language Text](https://arxiv.org/abs/1807.01763)*.
+An end-to-end tool for generating triples from natural language sentences. Given a natural language sentence, this code determine the entities and identify relationships between entities and generate a corresponding RDF triple which is aligned with the trained knwoeldge graph vocabularies. This repo contains the source code for ISWC'18 paper *[Seq2RDF: An end-to-end application for deriving Triples from Natural Language Text](https://arxiv.org/abs/1807.01763)*.
 
 A Demo video is [available](https://youtu.be/ssiQEDF-HHE).
 
