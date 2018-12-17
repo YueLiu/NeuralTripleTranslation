@@ -14,7 +14,7 @@ We ran [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml) on Wiki-D
 
    * **ADE**: [Adverse drug events dataset](https://sites.google.com/site/adecorpus/) 
    * **NYT** ([Riedel et al., 2011](https://pdfs.semanticscholar.org/db55/0f7af299157c67d7f1874bf784dca10ce4a9.pdf)): 1.18M sentences sampled from 294K New York Times news articles. 395 sentences are manually annotated with 24 relation types and 47 entity types. ([Download JSON](https://drive.google.com/drive/folders/0B--ZKWD8ahE4UktManVsY1REOUk?usp=sharing))
-   * **Wiki-DB**: the training corpus contains 500k sentences sampled from Wikipedia articles. Test data consists of 2k mannually labeled sentences. It has 37 relation types and 46 entity types after filtering of numeric value-related relations. ([Download](http://blender04.cs.rpi.edu/~zhangt13/))
+   * **Wiki-DB**: the training corpus contains 500k sentences sampled from Wikipedia articles. Test data consists of 2k mannually labeled sentences. It has 37 relation types and 46 entity types after filtering of numeric value-related relations. ([Download](https://drive.google.com/file/d/1XmtOarcCuMUGyIh851yFx5Nkp6iihdak/view?usp=sharing))
 
 ### Dependencies
 
