@@ -4,6 +4,20 @@ An end-to-end tool for generating triples from natural language sentences. Given
 
 A Demo video is [available](https://youtu.be/ssiQEDF-HHE).
 
+If you use the code, please cite the following paper:
+
+```
+ @inproceedings{liu2018seq2rdf,
+  author    = {Liu, Yue and Zhang, Tongtao and Liang, Zhicheng and Ji, Heng and McGuinness, Deborah L},
+  title     = {Seq2RDF: An End-to-end Application for Deriving Triples from Natural
+               Language Text},
+  booktitle = {Proceedings of the {ISWC} 2018 Posters {\&} Demonstrations, Industry
+               and Blue Sky Ideas Tracks co-located with 17th International Semantic
+               Web Conference {(ISWC} 2018)},
+  year      = {2018}
+}
+```
+
 ### Preprocess
 
 The preprocess folder contains the implementation of distant supervision and data cleanning using certain NLP tools and regular expressions with regard to owls and txts respectively.
@@ -23,7 +37,7 @@ We ran [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml) on Wiki-D
 * tensorflow
 * json
 * numpy
-* torch
+* pytorch
 
 We used Anaconda for this work.
 
@@ -47,12 +61,20 @@ For our proposed approach, we randomly initialize a 512-dimension vector for eac
 
 ### KG embeddings training
 
-We learned the 100-dimension embeddings from 2,497,196 DBpedia triples that includes 1,238,671 distinct entities and 3,359 relations using the TransE model. The code is modified based on this *[Open-Source Package for Knowledge Embedding](https://github.com/thunlp/OpenKE)*.
+We learned the 100-dimension embeddings from 2,497,196 DBpedia triples that includes 1,238,671 distinct entities and 3,359 relations using the TransE model. The code is based on this *[Open-Source Package for Knowledge Embedding](https://github.com/thunlp/OpenKE)* and modified in order to run in a non-GPU environment.
 
 ### Default Run
 
-Run *main.py* for the baseline of *Relation Extraction* on the Wiki-DBpedia dataset
+Run *main.py* under ./baselines for running the baseline of *Relation Extraction* on the Wiki-DBpedia dataset
 
 Run *main.py* for deploy the flask web-application
 
 Two needed tensorflow outputs *.tfmodel.data-* and the *.pkl* file are not uploaded here due to the size issue. You should be able to get them after training.
+
+### Contact
+
+The code base is a joint work by 
+- [Yue Liu](https://github.com/YueLiu) and [Tongtao Zhang](https://github.com/charlesztt) for the implementation of distant supervision, data cleaning, and the Seq2Seq model
+- [Zhicheng Liang](https://github.com/gychant) for the implementation of relation extraction baselines and KG embedding training. 
+
+If you have any question in usage, please contact us by opening an issue and we will be glad to resolve it. And contributing is always welcome.
