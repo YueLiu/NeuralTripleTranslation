@@ -4,9 +4,9 @@ import time
 start_time = time.time()
 
 import os
-rootdir = '/home/liuy30/AnacondaProjects/thesis/preprocess/training/'
+rootdir = '/preprocess/training/'
 
-text_file = open("kill_me_please.txt", "w")
+text_file = open("data.txt", "w")
 
 elements = list()
 
@@ -37,12 +37,3 @@ for subdir, dirs, files in os.walk(rootdir):
 
 text_file.close()
 print("--- %s seconds ---" % (time.time() - start_time))
-# with open('/home/liuy30/AnacondaProjects/thesis/preprocess/dbpedia_objectType_properties2.txt', 'r') as f2:
-#     rows = f2.readlines()
-#     counter = 0
-#     for sentence in rows:
-#         if "\" \"" in sentence:
-#             sentence.replace("\" \"", " ")
-#             print(sentence)
-#             counter += 1
-# print (counter)
