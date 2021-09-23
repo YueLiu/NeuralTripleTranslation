@@ -2,7 +2,7 @@ import time
 start_time = time.time()
 
 # text_file = open("is_a_type.txt", "w")
-with open('/home/liuy30/AnacondaProjects/thesis/preprocess/shouqiao.txt') as qf:
+with open('sq.txt') as qf:
     content = qf.readlines()
 # you may also want to remove whitespace characters like `\n` at the end of each line
     for i in content:
