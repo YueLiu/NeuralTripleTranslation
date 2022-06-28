@@ -1,0 +1,8 @@
+protobuf==3.20
+flask
+flask_cors
+numpy
+nltk
+tensorflow>=1.15.2,<2.0
+gensim==3.8.1
+#https://github.com/fnielsen/wembedder

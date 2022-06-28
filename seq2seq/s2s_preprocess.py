@@ -1,4 +1,5 @@
 import pickle
+import pathlib
 from nltk.tokenize import word_tokenize
 
 from utils.io.tools import dictionary_generator, data_indexer
@@ -11,7 +12,7 @@ def s2s_preprocess(train_file_name, test_file_name):
     max_length = 0
     for one_line in open(train_file_name):
         one_line = one_line.strip()
-        print(one_line)
+        #print(one_line)
         if len(one_line.split("\t")) != 2:
             continue
         raw_sentence = one_line.split("\t")[0]
@@ -65,7 +66,7 @@ def s2s_preprocess(train_file_name, test_file_name):
             if one_token not in w2v_model.wv.vocab:
                 continue
             pretrained_dict[one_token] = w2v_model[one_token]
-
+    """
     for one_line in open(test_file_name):
         one_line = one_line.strip()
         if len(one_line.split("\t")) != 2:
@@ -76,7 +77,7 @@ def s2s_preprocess(train_file_name, test_file_name):
             if one_token not in w2v_model.wv.vocab:
                 continue
             pretrained_dict[one_token] = w2v_model[one_token]
-
+    """
 
     processed_data = (token_idx_dict,
                       idx_token_dict,
@@ -87,7 +88,10 @@ def s2s_preprocess(train_file_name, test_file_name):
                       ontology_store_data,
                       raw_sentences,
                       ontology_results)
-    pickle.dump(processed_data, open("data/preprocessed/20180405.pkl", "wb"))
+    #open("data/preprocessed/20180405.pkl", "wb")
+    abspath = pathlib.Path("data/20180405.pkl").absolute()
+    with open(str(abspath), 'wb') as f:
+        pickle.dump(processed_data, f)
 
 if __name__ == "__main__":
     train_file_name = "data/raw/20180405.txt"
